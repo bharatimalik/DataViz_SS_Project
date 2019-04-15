@@ -195,7 +195,7 @@ This project helped me gain knowledge of different theories behind effective vis
 
 ### Replication of Warming Stripes
 
-Implementation of this replication can be found in a Tableau file [here](https://github.com/bharatimalik/SS-Proj/blob/master/TableauReplication.twbx)<br>
+Implementation of this replication can be found in a Tableau file [here](https://github.com/bharatimalik/DataViz_SS_Project/TableauReplication.twbx)<br>
 Data Source link can be found [here](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html) and to understand more about the data [click here](https://www.metoffice.gov.uk/hadobs/hadcrut4/HadCRUT4_accepted.pdf)<br>
 The [highlighted](https://github.com/bharatimalik/SS-Proj/blob/master/Images/data.JPG) data was used for this replication.
 
