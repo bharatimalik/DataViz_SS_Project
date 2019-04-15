@@ -73,7 +73,7 @@ Reference: [Visualization Assessment Rubric for above mentioned scores](https://
 ### Evaluations of the visuals collected using the framework created above
 
 #### Visual 1
-![Image of Global](https://github.com/bharatimalik/SS-Proj/blob/master/Images/Global.JPG)
+![Image of Global](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/Global.JPG)
 
 Evaluation:
 1. Simple to interpret:<br>
