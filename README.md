@@ -73,7 +73,7 @@ Reference: [Visualization Assessment Rubric for above mentioned scores](https://
 ### Evaluations of the visuals collected using the framework created above
 
 #### Visual 1
-![Image of Global](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/Global.JPG)
+![Image of Global](https://github.com/bharatimalik/SS-Proj/blob/master/Images/Global.JPG)
 
 Evaluation:
 1. Simple to interpret:<br>
@@ -96,7 +96,7 @@ What each color represents is not very clear. One interpretation of 3 colors cou
 [Visual 1 Source](https://www.washingtonpost.com/news/wonk/wp/2013/07/09/you-cant-deny-global-warming-after-seeing-this-graph)
 
 #### Visual 2
-![Image of ClimateRisks](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/ClimateRisks.JPG)
+![Image of ClimateRisks](https://github.com/bharatimalik/SS-Proj/blob/master/Images/ClimateRisks.JPG)
 
 Evaluation:
 1. Simple to interpret:<br>
@@ -120,7 +120,7 @@ Choosing colors to differentiate the continents is a good idea. However the colo
 [Visual 2 Source](https://www.maplecroft.com/insights/analysis/84-of-worlds-fastest-growing-cities-face-extreme-climate-change-risks/)
 
 #### Visual 3
-![Image of NonEnergySources](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/NonEnergySources.JPG)
+![Image of NonEnergySources](https://github.com/bharatimalik/SS-Proj/blob/master/Images/NonEnergySources.JPG)
 
 Evaluation:
 1. Simple to interpret:<br>
@@ -143,7 +143,7 @@ Using more than 6 colors in the visual distracts the reader and makes him lose t
 [Visual 3 Source](https://oilprice.com/Energy/Energy-General/The-Top-5-Non-Energy-Sources-of-Climate-Change.html)
 
 #### Visual 4
-![Image of LineComparison](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/LineComparison.JPG)
+![Image of LineComparison](https://github.com/bharatimalik/SS-Proj/blob/master/Images/LineComparison.JPG)
 
 Evaluation:
 1. Simple:<br>
@@ -166,7 +166,7 @@ Usage of colors is correct and the choice of colors are also correct.
 [Visual 4 Source](https://www.carbonbrief.org/qa-how-do-climate-models-work)
 
 #### Visual 5
-![Image of Droplets](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/Droplets.JPG)
+![Image of Droplets](https://github.com/bharatimalik/SS-Proj/blob/master/Images/Droplets.JPG)
 
 Evaluation:
 1. Simple:<br>
@@ -200,4 +200,9 @@ Data Source link can be found [here](https://www.metoffice.gov.uk/hadobs/hadcrut
 The [highlighted](https://github.com/bharatimalik/SS-Proj/blob/master/Images/data.JPG) data was used for this replication.
 
 #### Tableau Results:
-![Image of TableauReplication](https://github.com/bharatimalik/DataViz_SS_Project/tree/master/Images/TableauReplication.JPG)
+![Image of TableauReplication](https://github.com/bharatimalik/SS-Proj/blob/master/Images/TableauReplication.JPG)
+
+
+
+
+
